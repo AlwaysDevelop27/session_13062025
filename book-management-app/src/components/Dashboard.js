@@ -1,6 +1,6 @@
 // components/Dashboard.js
 import React from 'react';
-import BookList from './BookList';
+import BookList from './BookList1';
 
 
 const Dashboard = () => {
